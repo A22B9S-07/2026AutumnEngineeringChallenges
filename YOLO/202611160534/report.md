@@ -7,7 +7,7 @@
 
 ## Level1 环境搭建
 搭建Ubuntu虚拟机环境，安装PyTorch、YOLOv8依赖库，完成基础推理测试，验证环境可用性。
-
+![level1图](image/picture.level1)
 ## Level2 数据集制作
 采集435张图像，使用LabelImg工具进行标注，生成YOLO格式txt标签文件。按照9:1划分数据集，训练集391张，验证集44张。
 ![level2图1](images/picture.level2/level2.1.png)
