@@ -17,8 +17,17 @@
 ![level2图4](images/picture.level2/level2.4.png)
 ## Level3 模型训练
 使用自制数据集训练YOLOv8模型，查看训练损失、精度指标。
+![level3图1](images/picture.level3/20261002-102102.png)
+![level3图2](images/picture.level3/屏幕截图%202026-10-02%20103242.png)
+![level3图3](images/picture.level3/屏幕截图%202026-10-02%20103333.png)
+![level3图4](images/picture.level3/屏幕截图%202026-10-02%20103725.png)
+![level3图5](images/picture.level3/屏幕截图%202026-10-02%20103932.png)
 
 ## Level4 新图检测
 使用自己训练得到的模型，对训练集之外的新图片进行目标检测。
+![level4图1](images/picture.level4/屏幕截图%202026-10-02%20104311.png)
+![level4图2](images/picture.level4/屏幕截图%202026-10-02%20104537.png)
+
 ## Level5 制作页面
 在完成模型训练和新图片推理后，可以进一步将模型封装成一个简单的本地可视化应用。
+![level5图1](images/picture.level5/屏幕截图%202026-10-02%20111529.png)
