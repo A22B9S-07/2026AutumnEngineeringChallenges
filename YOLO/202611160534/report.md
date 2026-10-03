@@ -10,10 +10,10 @@
 
 ## Level2 数据集制作
 采集435张图像，使用LabelImg工具进行标注，生成YOLO格式txt标签文件。按照9:1划分数据集，训练集391张，验证集44张。
-[LabelImg标注截图](<picture.level2/屏幕截图 2026-10-01 181443.png>)
-![数据集划分终端截图](<picture.level2/屏幕截图 2026-10-01 182231.png>)
-![数据集目录结构截图](<picture.level2/屏幕截图 2026-10-01 182734.png>)
-![标签文件示例截图](<picture.level2/屏幕截图 2026-10-01 192401.png>)
+![level2图1](images/picture.level2/level2.1.png)
+![level2图2](images/picture.level2/level2.2.png)
+![level2图3](images/picture.level2/level2.3.png)
+![level2图4](images/picture.level2/level2.4.png)
 ## Level3 模型训练
 使用自制数据集训练YOLOv8模型，查看训练损失、精度指标。
 
