@@ -40,14 +40,14 @@ pip install -r requirements.txt
 ## 项目结构
 
 ```text
-你的学号/
+202611800123/
 ├── train.py                 # 模型训练脚本
 ├── predict.py               # 新图片推理脚本
 ├── data.yaml                # 数据集配置文件
 ├── requirements.txt         # 依赖清单
 ├── README.md                # 项目说明（本文件）
 ├── report.md                # 项目详细报告
-├── xiangmujietu/            # 各阶段验证截图
+├── images/                  # 各阶段验证截图
 ├── results/
 │   └── predict/             # 推理结果图
 └── runs/
